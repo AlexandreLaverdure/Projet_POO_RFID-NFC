@@ -1,4 +1,4 @@
-#Avancement des différentes parties
+#Avancement des diffÃ©rentes parties
 
 - [x] Introduction  
 - [x] Les  modes de fonctionnement  
@@ -6,8 +6,8 @@
     - [x] schemas 
 - [ ] Appareillage Bluetooth  
 	- [x] explications
-	- [ ] schemas
+	- [x] schemas
 - [ ] Applications Android
 - [ ] Exemples d'utilisation de tags NFC
-	- [ ] Possibilités
+	- [ ] PossibilitÃ©s
 	- [ ] Application
